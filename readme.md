@@ -92,7 +92,7 @@ blood_bank_db/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Himanshu Singh**
 - GitHub: [him_ship_it](https://github.com/him_ship_it)
 
 ---
